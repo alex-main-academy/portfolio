@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.header {
+    .container {
+        max-width: 1640px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin: auto auto;
+        padding: 45px 20px;
+    }
+}
+.header__logo {
+    width: 92px;
+}
+.header__logo-icon {
+    max-width: 100%;
+}
+
+//menu styles
+.menu__list {
+    width: 670px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.menu__link {
+    a {
+        color: #000000;
+        font-size: 20px;
+        line-height: 27px;
+        text-transform: uppercase;
+
+        &:hover {
+            border-bottom: 1px solid red;
+        }
+    }
+}
+
+
+
+//version for mobile screens
+@media(max-width:570px) {
+    .header {
+        .container {
+            max-width: 320px;
+            padding: 37.7px 5px;
+        }
+    }
+    .header__logo {
+        width: 31.5px;
+    }
+
+
+
+    //menu styles
+    .menu__list {
+        width: 270px;
+    }
+    .menu__link {
+        a {
+            line-height: 17px;
+            font-size: 13px;
+        }
+    }
+}
+

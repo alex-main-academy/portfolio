@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="139.674" height="183.051" viewBox="0 0 139.674 183.051">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Контур_56" data-name="Контур 56" d="M0,88.1H139.674V-94.949H0Z" transform="translate(0 94.949)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Сгруппировать_53" data-name="Сгруппировать 53" transform="translate(0 94.949)">
+    <g id="Сгруппировать_52" data-name="Сгруппировать 52" transform="translate(0 -94.949)" clip-path="url(#clip-path)">
+      <g id="Сгруппировать_50" data-name="Сгруппировать 50" transform="translate(2.893 49.161)">
+        <path id="Контур_54" data-name="Контур 54" d="M32.22,64.441A66.944,66.944,0,0,0,99.164-2.5,66.944,66.944,0,0,0,32.22-69.449,66.944,66.944,0,0,0-34.724-2.5,66.944,66.944,0,0,0,32.22,64.441" transform="translate(34.724 69.449)" fill="#fff200"/>
+      </g>
+      <g id="Сгруппировать_51" data-name="Сгруппировать 51" transform="translate(2.893 2.892)">
+        <path id="Контур_55" data-name="Контур 55" d="M32.22,64.441A66.944,66.944,0,0,0,99.164-2.5,66.944,66.944,0,0,0,32.22-69.449,66.944,66.944,0,0,0-34.724-2.5,66.944,66.944,0,0,0,32.22,64.441Z" transform="translate(34.724 69.449)" fill="none" stroke="#00aeef" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>
