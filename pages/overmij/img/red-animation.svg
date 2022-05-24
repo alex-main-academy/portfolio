@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="94.949" height="72.449" viewBox="0 0 94.949 72.449">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Контур_75" data-name="Контур 75" d="M0,0H72.449V-94.949H0Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Сгруппировать_75" data-name="Сгруппировать 75" transform="rotate(90)">
+    <g id="Сгруппировать_74" data-name="Сгруппировать 74" clip-path="url(#clip-path)">
+      <g id="Сгруппировать_72" data-name="Сгруппировать 72" transform="translate(36.224)">
+        <path id="Контур_73" data-name="Контур 73" d="M0,0A34.724,34.724,0,0,0,34.724-34.724,34.724,34.724,0,0,0,0-69.449,34.724,34.724,0,0,0-34.724-34.724,34.724,34.724,0,0,0,0,0" fill="#d2232a"/>
+      </g>
+      <g id="Сгруппировать_73" data-name="Сгруппировать 73" transform="translate(36.224 -24)">
+        <path id="Контур_74" data-name="Контур 74" d="M0,0A34.724,34.724,0,0,0,34.724-34.724,34.724,34.724,0,0,0,0-69.449,34.724,34.724,0,0,0-34.724-34.724,34.724,34.724,0,0,0,0,0Z" fill="none" stroke="#25408f" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>

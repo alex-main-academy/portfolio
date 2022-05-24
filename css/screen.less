@@ -1,8 +1,9 @@
-//fonts
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 * {
     margin: 0;
     padding: 0;
+    font-family: 'Poppins';
 
     ul {
         list-style: none;
@@ -146,7 +147,7 @@ body {
 //version for 1340px screens
 @media (max-width:1340px) {
     body {
-        background: url(../img/blue-line.svg) no-repeat 0 26%;
+        background: url(../img/blue-line.svg) no-repeat 0 25%;
     }
     .home {
         .container {
@@ -154,10 +155,10 @@ body {
         }
     }
     .home__text {
-        width: 60%;
+        width: 65%;
     }
     .home__image {
-        width: 40%;
+        width: 35%;
     }
 }
 
@@ -165,7 +166,7 @@ body {
 //version for mobile screens
 @media (max-width:570px) {
     body {
-        background: url(../img/blue-line.svg) no-repeat 0 20%/20%;
+        background: url(../img/blue-line.svg) no-repeat 0 41.5%/20%;
     }
     .home {
         .container {
@@ -173,8 +174,9 @@ body {
         }
     }
     .home__top {
-        flex-direction: column;
+        flex-direction: column-reverse;
         align-items: flex-start;
+        margin: 20px 0 0 0;
     }
     .home__bottom {
         margin: 80px 0 40px 0;
@@ -182,6 +184,7 @@ body {
     }
     .home__text {
         width: 100%;
+        margin: 30px 0 0 0;
     }
     .home__title {
         font-size: 40px;
@@ -221,7 +224,7 @@ body {
     }
 
     .home__link {
-        width: 31%;
+        width: 35%;
     }
 
     .link__image {

@@ -124,6 +124,9 @@
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5V1s.ttf) format('truetype');
 }
+.header {
+  font-family: 'Poppins';
+}
 .header .container {
   max-width: 1640px;
   display: flex;
