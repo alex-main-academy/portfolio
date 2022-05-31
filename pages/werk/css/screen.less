@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins';
+
+    ul {
+        list-style: none;
+    }
+    a {
+        text-decoration: none;
+    }
+}
+body {
+    background: url(../img/blue-line.svg) no-repeat center 129px, url(../img/yellow-line.svg) no-repeat 0 74%;
+}
+.werk {
+    .container {
+        max-width: 1700px;
+        margin: 0 auto 80px auto;
+        padding: 0 15px;
+    }
+}
+.werk__title {
+    h1 {
+        font-size: 90px;
+        line-height: 96px;
+        color: #D2232A;
+        font-weight: normal;
+        position: absolute;
+        top: 116px;
+        left: 338px;
+    }
+}
+.werk__content {
+    display: flex;
+    justify-content: space-between;
+    margin: 90px 0 0 0;
+}
+
+.werk__image {
+    border: 3px solid black;
+    margin: 0 0 23px 0;
+    height: 550px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.werk__block {
+    max-width: 357px;
+    text-align: center;
+
+    img {
+        max-width: 100%;
+    }
+
+    a {
+        font-size: 50px;
+        line-height: 67px;
+        color: #002581;
+    }
+}
+.werk__image-last {
+    height: auto !important;
+    max-width: 100%;
+}
+
+
+
+//media for 1700px screens
+@media(max-width:1700px) {
+    .werk__title {
+        h1 {
+            font-size: 70px;
+            left: 250px;
+        }
+    }
+    .werk__image {
+        height: 465px;
+    }
+    .werk__block {
+        max-width: 300px;
+
+        a {
+            font-size: 36px;
+        }
+    }
+}
+
+//media for 1340px screens
+@media(max-width:1340px) {
+    .werk__title {
+        h1 {
+            left: 150px;
+        }
+    }
+    .werk__image {
+        height: 385px;
+    }
+    .werk__block {
+        max-width: 250px;
+    }
+}
+
+
+//media for mobile 570px screens
+@media(max-width:570px) {
+    body {
+        background: url(../img/blue-line.svg) no-repeat 90% 111px/45px, url(../img/yellow-line.svg) no-repeat 0 74%;
+    }
+    .werk__content {
+        margin: 0;
+    }
+    .werk__title {
+        h1 {
+            position: relative;
+            left: 25px;
+            top: 0;
+            font-size: 40px;
+        }
+    }
+    .werk__content {
+        flex-wrap: wrap;
+    }
+    .werk__block {
+        max-width: 220px;
+    }
+    .werk__image {
+        height: 340px;
+    }
+}
+
+
+//media for mobile 475px screens
+@media(max-width:475px) {
+    .werk__block {
+        max-width: 190px;
+        margin: 20px 0 0 0;
+
+        a {
+            font-size: 20px;
+            line-height: 20px;
+        }
+    }
+    .werk__image {
+        height: 290px;
+    }
+}
+
+
+//media for mobile 430px screens
+@media(max-width:430px) {
+    .werk__block {
+        max-width: 160px;
+    }
+    .werk__image {
+        height: 250px;
+    }
+}
+
+
+//media for mobile 360px screens
+@media(max-width:360px) {
+    .werk__block {
+        max-width: 140px;
+    }
+    .werk__image {
+        height: 220px;
+    }
+}
+

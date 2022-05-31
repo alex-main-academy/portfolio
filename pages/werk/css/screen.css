@@ -1,0 +1,261 @@
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiAyp8kv8JHgFVrJJLmE3tF.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmv1plEA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm21llEA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLedw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19lEA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmy15lEA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm111lEA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm81xlEA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTedw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_V1s.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8V1s.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9V1s.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6V1s.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7V1s.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4V1s.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5V1s.ttf) format('truetype');
+}
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins';
+}
+* ul {
+  list-style: none;
+}
+* a {
+  text-decoration: none;
+}
+body {
+  background: url(../img/blue-line.svg) no-repeat center 129px, url(../img/yellow-line.svg) no-repeat 0 74%;
+}
+.werk .container {
+  max-width: 1700px;
+  margin: 0 auto 80px auto;
+  padding: 0 15px;
+}
+.werk__title h1 {
+  font-size: 90px;
+  line-height: 96px;
+  color: #D2232A;
+  font-weight: normal;
+  position: absolute;
+  top: 116px;
+  left: 338px;
+}
+.werk__content {
+  display: flex;
+  justify-content: space-between;
+  margin: 90px 0 0 0;
+}
+.werk__image {
+  border: 3px solid black;
+  margin: 0 0 23px 0;
+  height: 550px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.werk__block {
+  max-width: 357px;
+  text-align: center;
+}
+.werk__block img {
+  max-width: 100%;
+}
+.werk__block a {
+  font-size: 50px;
+  line-height: 67px;
+  color: #002581;
+}
+.werk__image-last {
+  height: auto !important;
+  max-width: 100%;
+}
+@media (max-width: 1700px) {
+  .werk__title h1 {
+    font-size: 70px;
+    left: 250px;
+  }
+  .werk__image {
+    height: 465px;
+  }
+  .werk__block {
+    max-width: 300px;
+  }
+  .werk__block a {
+    font-size: 36px;
+  }
+}
+@media (max-width: 1340px) {
+  .werk__title h1 {
+    left: 150px;
+  }
+  .werk__image {
+    height: 385px;
+  }
+  .werk__block {
+    max-width: 250px;
+  }
+}
+@media (max-width: 570px) {
+  body {
+    background: url(../img/blue-line.svg) no-repeat 90% 111px/45px, url(../img/yellow-line.svg) no-repeat 0 74%;
+  }
+  .werk__content {
+    margin: 0;
+  }
+  .werk__title h1 {
+    position: relative;
+    left: 25px;
+    top: 0;
+    font-size: 40px;
+  }
+  .werk__content {
+    flex-wrap: wrap;
+  }
+  .werk__block {
+    max-width: 220px;
+  }
+  .werk__image {
+    height: 340px;
+  }
+}
+@media (max-width: 475px) {
+  .werk__block {
+    max-width: 190px;
+    margin: 20px 0 0 0;
+  }
+  .werk__block a {
+    font-size: 20px;
+    line-height: 20px;
+  }
+  .werk__image {
+    height: 290px;
+  }
+}
+@media (max-width: 430px) {
+  .werk__block {
+    max-width: 160px;
+  }
+  .werk__image {
+    height: 250px;
+  }
+}
+@media (max-width: 360px) {
+  .werk__block {
+    max-width: 140px;
+  }
+  .werk__image {
+    height: 220px;
+  }
+}
