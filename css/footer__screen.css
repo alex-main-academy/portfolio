@@ -125,7 +125,7 @@
   src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5V1s.ttf) format('truetype');
 }
 .footer {
-  background: url(../img/red-circle.svg) no-repeat -10% 170px, url(../img/yellow-circle.svg) no-repeat 95% 30%;
+  background: url(../img/red-circle.png) no-repeat -10% 170px, url(../img/yellow-circle.png) no-repeat 95% 30%;
   background-color: #25408F;
   font-family: 'Poppins';
 }
@@ -220,7 +220,7 @@
 }
 @media (max-width: 570px) {
   .footer {
-    background: url(../img/red-circle.svg) no-repeat -10% 80px/20%, url(../img/yellow-circle.svg) no-repeat 95% 30%/3%;
+    background: url(../img/red-circle.png) no-repeat -10% 80px/20%, url(../img/yellow-circle.png) no-repeat 95% 30%/3%;
     background-color: #25408F;
   }
   .footer .container {

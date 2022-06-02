@@ -1,0 +1,244 @@
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiAyp8kv8JHgFVrJJLmE3tF.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmv1plEA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm21llEA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLedw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19lEA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmy15lEA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm111lEA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm81xlEA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTedw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_V1s.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8V1s.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9V1s.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6V1s.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7V1s.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4V1s.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5V1s.ttf) format('truetype');
+}
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins';
+}
+* ul {
+  list-style: none;
+}
+* a {
+  text-decoration: none;
+}
+body {
+  background: url(../img/blue-line.svg) no-repeat center 0, url(../img/yellow-circle.svg) no-repeat 80% 280px, url(../img/blue-circle.svg) no-repeat 110% 770px;
+}
+.foto .container {
+  max-width: 1380px;
+  margin: 80px auto 170px auto;
+  padding: 0 15px;
+}
+.foto__title h1 {
+  color: #25408F;
+  font-size: 90px;
+  font-weight: normal;
+}
+.foto__top {
+  margin: 40px 0 0 0;
+  display: flex;
+}
+.foto__top p {
+  max-width: 690px;
+  font-size: 33px;
+  margin: 0 0 0 90px;
+  display: flex;
+  align-items: flex-end;
+}
+.foto__top img {
+  max-width: 100%;
+}
+.foto__middle {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin: 170px 0 0 0;
+}
+.foto__bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+@media (max-width: 1700px) {
+  .foto .container {
+    margin: 50px auto 100px auto;
+  }
+  .foto__title h1 {
+    font-size: 70px;
+  }
+  .foto__top p {
+    font-size: 24px;
+  }
+}
+@media (max-width: 1280px) {
+  body {
+    background: url(../img/blue-line.svg) no-repeat 30% -40px, url(../img/yellow-circle.svg) no-repeat 80% 280px, url(../img/blue-circle.svg) no-repeat 120% 770px;
+  }
+  .foto__top img {
+    width: 400px;
+  }
+  .foto__middle img:first-child {
+    width: 590px;
+  }
+  .foto__middle img:last-child {
+    width: 400px;
+  }
+  .foto__bottom img:first-child {
+    width: 400px;
+  }
+  .foto__bottom img:last-child {
+    width: 590px;
+  }
+}
+@media (max-width: 570px) {
+  body {
+    background: url(../img/blue-line.svg) no-repeat 20% 0/6px, url(../img/yellow-circle.svg) no-repeat 85% 295px/27px, url(../img/blue-circle.svg) no-repeat 120% 577px/125px;
+  }
+  .foto .container {
+    margin: 40px auto 60px auto;
+    max-width: 300px;
+  }
+  .foto__title h1 {
+    font-size: 40px;
+  }
+  .foto__top {
+    flex-direction: column;
+  }
+  .foto__top img {
+    width: 225px;
+  }
+  .foto__top p {
+    width: 225px;
+    font-size: 13px;
+    margin: 12px 0 0 0;
+  }
+  .foto__middle {
+    margin: 70px 0 0 0;
+  }
+  .foto__middle img:first-child {
+    width: 165px;
+  }
+  .foto__middle img:last-child {
+    width: 112px;
+  }
+  .foto__bottom img:first-child {
+    width: 112px;
+  }
+  .foto__bottom img:last-child {
+    width: 165px;
+  }
+}

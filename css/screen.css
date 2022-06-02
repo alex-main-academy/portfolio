@@ -136,7 +136,7 @@
   text-decoration: none;
 }
 body {
-  background: url(../img/blue-line.svg) no-repeat 0 25.5%;
+  background: url(../img/blue-line.png) no-repeat 0 25.5%;
 }
 .home .container {
   max-width: 1700px;
@@ -205,7 +205,7 @@ body {
 }
 @media (max-width: 1700px) {
   body {
-    background: url(../img/blue-line.svg) no-repeat 0 28%;
+    background: url(../img/blue-line.png) no-repeat 0 28%;
   }
   .home .container {
     max-width: 1340px;
@@ -240,7 +240,7 @@ body {
 }
 @media (max-width: 1340px) {
   body {
-    background: url(../img/blue-line.svg) no-repeat 0 25%;
+    background: url(../img/blue-line.png) no-repeat 0 25%;
   }
   .home .container {
     max-width: 1024px;
@@ -254,7 +254,7 @@ body {
 }
 @media (max-width: 570px) {
   body {
-    background: url(../img/blue-line.svg) no-repeat 0 41.5%/20%;
+    background: url(../img/blue-line.png) no-repeat 0 41.5%/20%;
   }
   .home .container {
     max-width: 330px;
