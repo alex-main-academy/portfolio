@@ -402,6 +402,7 @@ body {
     height: 26px;
     margin: 5px 0 0 0;
     padding: 0;
+    font-size: 13px;
   }
   .form__middle p {
     font-size: 13px;
@@ -411,6 +412,7 @@ body {
     height: 26px;
     margin: 3px 0 0 0;
     padding: 0;
+    font-size: 13px;
   }
   .form__bottom p {
     font-size: 13px;
@@ -420,6 +422,7 @@ body {
     height: 74px;
     margin: 3px 0 0 0;
     padding: 0;
+    font-size: 13px;
   }
   .cont__button button {
     width: 133px;
