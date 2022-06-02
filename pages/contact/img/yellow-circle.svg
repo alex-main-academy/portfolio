@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="225.526" height="222.779" viewBox="0 0 225.526 222.779">
   <defs>
     <clipPath id="clip-path">
-      <path id="Контур_64" data-name="Контур 64" d="M0-43H225.526V-265.775H0Z" transform="translate(0 265.775)" fill="none"/>
+      <path id="k_64" data-name="k 64" d="M0-43H225.526V-265.775H0Z" transform="translate(0 265.775)" fill="none"/>
     </clipPath>
   </defs>
-  <g id="Сгруппировать_62" data-name="Сгруппировать 62" transform="translate(0 265.775)">
-    <g id="Сгруппировать_61" data-name="Сгруппировать 61" transform="translate(0 -265.775)" clip-path="url(#clip-path)">
-      <g id="Сгруппировать_60" data-name="Сгруппировать 60" transform="translate(10.478 10.478)">
-        <path id="Контур_63" data-name="Контур 63" d="M-19.741-38.951c56.49,0,102.285-45.179,102.285-100.912S36.75-240.775-19.741-240.775-122.026-195.6-122.026-139.864-76.231-38.951-19.741-38.951Z" transform="translate(122.026 240.775)" fill="none" stroke="#fff200" stroke-width="25"/>
+  <g id="s_62" data-name="s 62" transform="translate(0 265.775)">
+    <g id="s_61" data-name="s 61" transform="translate(0 -265.775)" clip-path="url(#clip-path)">
+      <g id="s_60" data-name="s 60" transform="translate(10.478 10.478)">
+        <path id="k_63" data-name="k 63" d="M-19.741-38.951c56.49,0,102.285-45.179,102.285-100.912S36.75-240.775-19.741-240.775-122.026-195.6-122.026-139.864-76.231-38.951-19.741-38.951Z" transform="translate(122.026 240.775)" fill="none" stroke="#fff200" stroke-width="25"/>
       </g>
     </g>
   </g>
